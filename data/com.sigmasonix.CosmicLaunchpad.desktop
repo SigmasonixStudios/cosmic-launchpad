@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Cosmic Launchpad
+Comment=Arrange and launch applications from a spatial board
+Type=Application
+Exec=cosmic-application-board
+Terminal=false
+Categories=Utility;
+Keywords=App;Application;Board;Library;Launcher;Tiles;Groups;
+Icon=com.sigmasonix.CosmicLaunchpad
+StartupNotify=true
+NoDisplay=false

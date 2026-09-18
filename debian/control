@@ -1,0 +1,23 @@
+Source: cosmic-launchpad
+Section: admin
+Priority: optional
+Maintainer: Sigmasonix Studios <sigmasonixstudios@users.noreply.github.com>
+Build-Depends:
+  debhelper (>= 11),
+  debhelper-compat (= 11),
+  rust-all,
+  just,
+  pkg-config,
+  libxkbcommon-dev,
+  libwayland-dev,
+Standards-Version: 4.3.0
+Homepage: https://github.com/SigmasonixStudios/cosmic-launchpad
+
+Package: cosmic-launchpad
+Architecture: amd64 arm64
+Depends:
+  ${misc:Depends},
+  ${shlibs:Depends}
+Description: Spatial application launcher for the COSMIC desktop
+ Arrange favorite applications freely across persistent pages and keep
+ unpinned applications available in a separate searchable library.

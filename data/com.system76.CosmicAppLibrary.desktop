@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Applications
+Comment=An application launcher for the COSMIC desktop that lists all installed applications in a grid
+Type=Application
+Exec=cosmic-app-library
+Terminal=false
+Categories=COSMIC;
+Keywords=App;Application;Library;Launcher
+Icon=com.system76.CosmicAppLibrary
+StartupNotify=true
+NoDisplay=true

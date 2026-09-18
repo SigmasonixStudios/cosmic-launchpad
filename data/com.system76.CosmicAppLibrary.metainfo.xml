@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Ashley Wulber 2019 <ashley@system76.com> -->
+<component type="desktop-application">
+  <id>com.system76.CosmicAppLibrary</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <project_group>COSMIC</project_group>
+  <developer_name>System76</developer_name>
+  <update_contact>jeremy@system76.com</update_contact>
+  <url type="homepage">https://github.com/pop-os/cosmic-app-library</url>
+  <url type="bugtracker">https://github.com/pop-os/cosmic-app-library/issues</url>
+  <name>Applications</name>
+  <summary>An application launcher for the COSMIC desktop that lists all installed applications in a grid</summary>
+  <description>
+    <p>The default application library for the COSMIC desktop</p>
+    <p xml:lang="ar">مكتبة التطبيقات المبدئية لسطح مكتب COSMIC</p>
+    <p xml:lang="cs">Výchozí knihovna aplikací pro prostředí COSMIC</p>
+    <p xml:lang="hu">A COSMIC asztali környezet alapértelmezett alkalmazáskönyvtára</p>
+    <p xml:lang="pt_BR">A aplicação padrão de biblioteca de aplicativos do desktop COSMIC</p>
+    <p xml:lang="pt">A aplicação padrão de biblioteca de aplicativos do desktop COSMIC</p>
+    <p xml:lang="ru">Библиотека приложений по умолчанию для оболочки COSMIC</p>
+    <p xml:lang="sk">Predvolená knižnica aplikácií pre pracovné prostredie COSMIC</p>
+    <p xml:lang="es">Biblioteca de aplicaciones para el escritorio COSMIC</p>
+    <p xml:lang="sv">Standard programbibliotek för skrivbordsmiljön COSMIC</p>
+    <p xml:lang="it">Libreria applicazioni di default per il desktop COSMIC</p>
+  </description>
+  <launchable type="desktop-id">com.system76.CosmicAppLibrary.desktop</launchable>
+  <keywords>
+    <keyword>App</keyword>
+    <keyword>Application</keyword>
+    <keyword>Library</keyword>
+    <keyword>Launcher</keyword>
+  </keywords>
+  <provides>
+    <id>com.system76.CosmicApplication</id>
+    <binaries>
+      <binary>cosmic-app-library</binary>
+    </binaries>
+  </provides>
+</component>

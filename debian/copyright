@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: cosmic-launchpad
+Source: https://github.com/SigmasonixStudios/cosmic-launchpad
+
+Files: *
+Copyright: Copyright 2022 System76
+           Copyright 2026 Sigmasonix Studios
+License: GPL-3.0-only

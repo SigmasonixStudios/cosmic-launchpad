@@ -1,0 +1,18 @@
+#!/usr/bin/make -f
+
+DESTDIR = debian/cosmic-launchpad
+
+%:
+	dh $@
+
+override_dh_shlibdeps:
+	dh_shlibdeps --dpkg-shlibdeps-params=--ignore-missing-info
+
+override_dh_auto_clean:
+	ischroot || (just clean-dist && just vendor)
+
+override_dh_auto_build:
+	just build-vendored
+
+override_dh_install:
+	just rootdir=$(DESTDIR) install

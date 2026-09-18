@@ -1,0 +1,15 @@
+cancel = ᱵᱟᱹᱛᱤᱞ
+new-group = ᱯᱷᱚᱞᱰᱟᱨ ᱵᱮᱱᱟᱣ ᱢᱮ
+name = ᱧᱩᱛᱩᱢ
+ok = ᱴᱷᱤᱠ
+save = ᱥᱟᱧᱪᱟᱣ
+search-placeholder = ᱮᱯᱥ ᱥᱮᱸᱫᱽᱨᱟ ᱞᱟᱹᱜᱤᱫ ᱴᱟᱭᱤᱯ ᱢᱮ…
+pin-to-app-tray = ᱮᱯ ᱴᱨᱮ ᱨᱮ ᱞᱟᱴᱷᱟᱭ ᱢᱮ
+run-on = { $gpu } ᱨᱮ ᱫᱟᱹᱲ ᱟᱭ
+run-on-default = (ᱢᱩᱞ)
+remove = ᱞᱟᱭᱵᱨᱮᱨᱤ ᱚᱲᱟᱜ ᱥᱮᱫ ᱥᱮᱱᱚᱜ ᱢᱮ
+create-new = ᱱᱟᱶᱟ ᱯᱚᱴᱚᱢ ᱵᱮᱱᱟᱣ ᱢᱮ
+add-group = ᱫᱳᱞ ᱥᱮᱞᱮᱫ ᱢᱮ
+delete-folder = ᱯᱚᱴᱚᱢ ᱢᱮᱴᱟᱣ ᱟ ᱥᱮ ?
+    .msg = ᱱᱚᱣᱟ ᱯᱚᱴᱚᱢ ᱢᱮᱴᱟᱣ ᱠᱷᱟᱱ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱪᱤᱱᱦᱟᱹ ᱠᱚ ᱞᱟᱭᱵᱨᱮᱨᱤ ᱚᱲᱟᱜ ᱨᱮ ᱥᱮᱱᱚᱜᱼᱟ ᱾
+system = ᱥᱤᱥᱴᱚᱢ

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop-application">
+  <id>com.sigmasonix.CosmicLaunchpad</id>
+  <metadata_license>CC0</metadata_license>
+  <project_license>GPL-3.0-only</project_license>
+  <project_group>COSMIC</project_group>
+  <developer_name>Sigmasonix Studios</developer_name>
+  <name>Cosmic Launchpad</name>
+  <summary>A customizable spatial application launcher for COSMIC</summary>
+  <url type="homepage">https://github.com/SigmasonixStudios/cosmic-launchpad</url>
+  <description>
+    <p>Arrange favorite applications freely across persistent Launchpad pages while keeping every other app close at hand.</p>
+  </description>
+  <launchable type="desktop-id">com.sigmasonix.CosmicLaunchpad.desktop</launchable>
+  <keywords>
+    <keyword>App</keyword>
+    <keyword>Application</keyword>
+    <keyword>Board</keyword>
+    <keyword>Launcher</keyword>
+    <keyword>Tiles</keyword>
+  </keywords>
+  <provides>
+    <id>com.system76.CosmicApplication</id>
+    <binaries>
+      <binary>cosmic-application-board</binary>
+    </binaries>
+  </provides>
+  <releases>
+    <release version="1.0.1" date="2026-09-18">
+      <description>
+        <p>Changed the internal application namespace to the Sigmasonix Studios brand.</p>
+      </description>
+    </release>
+  </releases>
+</component>

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=Launchpad
+Comment=Open Cosmic Launchpad
+Exec=cosmic-application-board-applet
+Icon=application-menu-symbolic
+Terminal=false
+Categories=Utility;
+Keywords=COSMIC;Applet;Applications;Launchpad;
+NoDisplay=true
+X-CosmicApplet=true
+X-HostWaylandDisplay=true
